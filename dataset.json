@@ -1,0 +1,2734 @@
+{
+    "dataset": [
+        {
+            "id": 1,
+            "category": "Informations Générales sur l'Établissement",
+            "question": "Quelle est la mission de notre établissement ?",
+            "answer": "Notre mission est de fournir une éducation de qualité, accessible à tous, et de promouvoir l'innovation et la recherche."
+        },
+        {
+            "id": 2,
+            "category": "Informations Générales sur l'Établissement",
+            "question": "Quels sont les valeurs fondamentales de notre école ?",
+            "answer": "Nos valeurs incluent l'intégrité, l'excellence académique, la diversité et l'engagement communautaire."
+        },
+        {
+            "id": 3,
+            "category": "Informations Générales sur l'Établissement",
+            "question": "Combien d'étudiants sont inscrits cette année ?",
+            "answer": "Cette année, nous avons 10 000 étudiants inscrits."
+        },
+        {
+            "id": 4,
+            "category": "Informations Générales sur l'Établissement",
+            "question": "Quelle est la durée moyenne d'obtention d'un diplôme ?",
+            "answer": "La durée moyenne est de 3 à 4 ans pour un diplôme de premier cycle."
+        },
+        {
+            "id": 5,
+            "category": "Informations Générales sur l'Établissement",
+            "question": "Quels sont les partenariats académiques de l'établissement ?",
+            "answer": "Nous collaborons avec des universités internationales comme Harvard, Sorbonne, et l'Université de Tokyo."
+        },
+        {
+            "id": 6,
+            "category": "Programmes et Cours",
+            "question": "Quels sont les programmes de premier cycle offerts ?",
+            "answer": "Nous offrons des programmes en informatique, gestion, sciences sociales, et ingénierie."
+        },
+        {
+            "id": 7,
+            "category": "Programmes et Cours",
+            "question": "Quels sont les programmes de cycle supérieur disponibles ?",
+            "answer": "Nous proposons des masters en Data Science, MBA, et des doctorats en recherche."
+        },
+        {
+            "id": 8,
+            "category": "Programmes et Cours",
+            "question": "Y a-t-il des programmes en ligne ou à distance ?",
+            "answer": "Oui, nous proposons des programmes en ligne pour les étudiants internationaux."
+        },
+        {
+            "id": 9,
+            "category": "Programmes et Cours",
+            "question": "Quels sont les cours les plus populaires parmi les étudiants ?",
+            "answer": "Les cours les plus populaires sont l'introduction à l'informatique, le marketing digital, et la psychologie sociale."
+        },
+        {
+            "id": 10,
+            "category": "Programmes et Cours",
+            "question": "Y a-t-il des programmes d'échange internationaux ?",
+            "answer": "Oui, nous avons des accords avec plus de 50 universités à travers le monde pour des échanges étudiants."
+        },
+        {
+            "id": 11,
+            "category": "Admission et Inscription",
+            "question": "Quels sont les critères d'admission pour les nouveaux étudiants ?",
+            "answer": "Les critères incluent un diplôme de fin d'études secondaires, une lettre de motivation, et des scores aux tests standardisés."
+        },
+        {
+            "id": 12,
+            "category": "Admission et Inscription",
+            "question": "Quels documents sont nécessaires pour l'inscription ?",
+            "answer": "Vous aurez besoin de votre diplôme, d'une pièce d'identité, d'une photo d'identité, et d'une preuve de paiement des frais d'inscription."
+        },
+        {
+            "id": 13,
+            "category": "Admission et Inscription",
+            "question": "Y a-t-il des frais d'inscription ? Si oui, combien ?",
+            "answer": "Oui, les frais d'inscription sont de 200 euros pour les nouveaux étudiants."
+        },
+        {
+            "id": 14,
+            "category": "Admission et Inscription",
+            "question": "Existe-t-il des bourses d'études disponibles ?",
+            "answer": "Oui, nous offrons des bourses basées sur le mérite et les besoins financiers."
+        },
+        {
+            "id": 15,
+            "category": "Admission et Inscription",
+            "question": "Quelle est la date limite pour postuler ?",
+            "answer": "La date limite pour postuler est le 30 juin de chaque année."
+        },
+        {
+            "id": 16,
+            "category": "Vie Étudiante",
+            "question": "Quelles activités extrascolaires sont proposées ?",
+            "answer": "Nous proposons des clubs sportifs, des associations culturelles, et des événements communautaires."
+        },
+        {
+            "id": 17,
+            "category": "Vie Étudiante",
+            "question": "Y a-t-il des clubs étudiants actifs sur le campus ?",
+            "answer": "Oui, il y a plus de 50 clubs étudiants actifs, allant des clubs de débat aux clubs de robotique."
+        },
+        {
+            "id": 18,
+            "category": "Vie Étudiante",
+            "question": "Quels sont les services de soutien aux étudiants disponibles ?",
+            "answer": "Nous offrons un soutien académique, psychologique, et des services d'orientation professionnelle."
+        },
+        {
+            "id": 19,
+            "category": "Vie Étudiante",
+            "question": "Y a-t-il des logements étudiants sur le campus ?",
+            "answer": "Oui, nous avons des résidences étudiantes sur le campus avec des options de chambres individuelles ou partagées."
+        },
+        {
+            "id": 20,
+            "category": "Vie Étudiante",
+            "question": "Comment fonctionne le système de transport pour les étudiants ?",
+            "answer": "Nous offrons des navettes gratuites entre le campus et les résidences étudiantes, ainsi que des réductions sur les transports publics."
+        },
+        {
+            "id": 21,
+            "category": "Ressources Académiques",
+            "question": "Quelles sont les heures d'ouverture de la bibliothèque ?",
+            "answer": "La bibliothèque est ouverte du lundi au vendredi de 8h à 20h, et le samedi de 9h à 17h."
+        },
+        {
+            "id": 22,
+            "category": "Ressources Académiques",
+            "question": "Y a-t-il des ressources en ligne disponibles pour les étudiants ?",
+            "answer": "Oui, nous avons une bibliothèque numérique avec des milliers de livres, articles, et vidéos éducatives."
+        },
+        {
+            "id": 23,
+            "category": "Ressources Académiques",
+            "question": "Comment accéder aux laboratoires de recherche ?",
+            "answer": "Les laboratoires sont accessibles sur réservation pour les étudiants inscrits dans des programmes de recherche."
+        },
+        {
+            "id": 24,
+            "category": "Ressources Académiques",
+            "question": "Y a-t-il des tutorats disponibles pour les étudiants ?",
+            "answer": "Oui, nous offrons des séances de tutorat gratuites pour les étudiants en difficulté."
+        },
+        {
+            "id": 25,
+            "category": "Ressources Académiques",
+            "question": "Quels sont les logiciels et outils fournis par l'établissement ?",
+            "answer": "Nous fournissons des licences pour Microsoft Office, MATLAB, et d'autres outils spécialisés."
+        },
+        {
+            "id": 26,
+            "category": "Services de Carrière",
+            "question": "Quels services de placement sont offerts aux étudiants ?",
+            "answer": "Nous offrons des ateliers de rédaction de CV, des simulations d'entretiens, et des salons de l'emploi."
+        },
+        {
+            "id": 27,
+            "category": "Services de Carrière",
+            "question": "Y a-t-il des stages obligatoires dans les programmes ?",
+            "answer": "Oui, certains programmes incluent des stages obligatoires pour valider le diplôme."
+        },
+        {
+            "id": 28,
+            "category": "Services de Carrière",
+            "question": "Comment l'établissement aide-t-il les étudiants à trouver un emploi ?",
+            "answer": "Nous organisons des événements de networking, des ateliers de carrière, et des partenariats avec des entreprises."
+        },
+        {
+            "id": 29,
+            "category": "Services de Carrière",
+            "question": "Y a-t-il des ateliers de préparation à la carrière ?",
+            "answer": "Oui, nous proposons des ateliers réguliers sur la recherche d'emploi, la négociation de salaire, et la gestion de carrière."
+        },
+        {
+            "id": 30,
+            "category": "Services de Carrière",
+            "question": "Quelles entreprises recrutent régulièrement sur le campus ?",
+            "answer": "Des entreprises comme Google, Amazon, et Deloitte recrutent régulièrement sur notre campus."
+        },
+        {
+            "id": 31,
+            "category": "Santé et Bien-être",
+            "question": "Y a-t-il un centre de santé sur le campus ?",
+            "answer": "Oui, nous avons un centre de santé ouvert du lundi au vendredi de 9h à 17h."
+        },
+        {
+            "id": 32,
+            "category": "Santé et Bien-être",
+            "question": "Quels services de santé mentale sont disponibles ?",
+            "answer": "Nous offrons des consultations psychologiques gratuites pour les étudiants."
+        },
+        {
+            "id": 33,
+            "category": "Santé et Bien-être",
+            "question": "Y a-t-il des programmes de bien-être pour les étudiants ?",
+            "answer": "Oui, nous proposons des ateliers de méditation, de gestion du stress, et de nutrition."
+        },
+        {
+            "id": 34,
+            "category": "Santé et Bien-être",
+            "question": "Comment signaler un problème de santé ou de sécurité ?",
+            "answer": "Vous pouvez contacter le bureau de la sécurité sur le campus ou appeler le numéro d'urgence fourni."
+        },
+        {
+            "id": 35,
+            "category": "Santé et Bien-être",
+            "question": "Y a-t-il des installations sportives disponibles pour les étudiants ?",
+            "answer": "Oui, nous avons un gymnase, une piscine, et des terrains de sport accessibles à tous les étudiants."
+        },
+        {
+            "id": 36,
+            "category": "Technologie et Innovation",
+            "question": "Quelles technologies sont utilisées dans les salles de classe ?",
+            "answer": "Nous utilisons des tableaux interactifs, des projecteurs 4K, et des systèmes de visioconférence."
+        },
+        {
+            "id": 37,
+            "category": "Technologie et Innovation",
+            "question": "Y a-t-il des initiatives d'innovation ou de recherche en cours ?",
+            "answer": "Oui, nous avons des laboratoires de recherche en IA, robotique, et énergie renouvelable."
+        },
+        {
+            "id": 38,
+            "category": "Technologie et Innovation",
+            "question": "Comment les étudiants peuvent-ils accéder au Wi-Fi sur le campus ?",
+            "answer": "Les étudiants peuvent se connecter au Wi-Fi en utilisant leurs identifiants universitaires."
+        },
+        {
+            "id": 39,
+            "category": "Technologie et Innovation",
+            "question": "Y a-t-il des ressources pour les étudiants en informatique ?",
+            "answer": "Oui, nous avons des laboratoires informatiques équipés des derniers logiciels et matériels."
+        },
+        {
+            "id": 40,
+            "category": "Technologie et Innovation",
+            "question": "Comment signaler un problème technique ?",
+            "answer": "Vous pouvez contacter le support technique via le portail en ligne ou en appelant le bureau d'assistance."
+        },
+        {
+            "id": 41,
+            "category": "Politiques et Règlements",
+            "question": "Quelle est la politique de l'établissement en matière de plagiat ?",
+            "answer": "Le plagiat est strictement interdit et peut entraîner des sanctions disciplinaires, y compris l'exclusion."
+        },
+        {
+            "id": 42,
+            "category": "Politiques et Règlements",
+            "question": "Comment fonctionne le système de notation ?",
+            "answer": "Les notes sont basées sur des examens, des projets, et la participation en classe, sur une échelle de 0 à 20."
+        },
+        {
+            "id": 43,
+            "category": "Politiques et Règlements",
+            "question": "Quelles sont les règles concernant les absences en cours ?",
+            "answer": "Les étudiants ne peuvent pas manquer plus de 20% des cours sans justification médicale."
+        },
+        {
+            "id": 44,
+            "category": "Politiques et Règlements",
+            "question": "Y a-t-il un code de conduite pour les étudiants ?",
+            "answer": "Oui, le code de conduite est disponible dans le manuel de l'étudiant et doit être respecté à tout moment."
+        },
+        {
+            "id": 45,
+            "category": "Politiques et Règlements",
+            "question": "Comment déposer une plainte ou un grief ?",
+            "answer": "Vous pouvez déposer une plainte en ligne via le portail étudiant ou en personne au bureau des affaires étudiantes."
+        },
+        {
+            "id": 46,
+            "category": "Événements et Actualités",
+            "question": "Quels sont les événements majeurs prévus cette année ?",
+            "answer": "Nous organisons une journée portes ouvertes, un festival culturel, et une conférence sur l'innovation."
+        },
+        {
+            "id": 47,
+            "category": "Événements et Actualités",
+            "question": "Comment les étudiants peuvent-ils participer à l'organisation d'événements ?",
+            "answer": "Les étudiants peuvent rejoindre le comité des événements ou proposer des idées via le bureau des activités étudiantes."
+        },
+        {
+            "id": 48,
+            "category": "Événements et Actualités",
+            "question": "Y a-t-il des conférences ou des séminaires ouverts aux étudiants ?",
+            "answer": "Oui, nous organisons régulièrement des conférences avec des experts internationaux."
+        },
+        {
+            "id": 49,
+            "category": "Événements et Actualités",
+            "question": "Comment rester informé des actualités de l'établissement ?",
+            "answer": "Vous pouvez consulter notre site web, notre application mobile, ou suivre nos réseaux sociaux."
+        },
+        {
+            "id": 50,
+            "category": "Événements et Actualités",
+            "question": "Y a-t-il des événements culturels ou artistiques sur le campus ?",
+            "answer": "Oui, nous organisons des expositions d'art, des concerts, et des pièces de théâtre tout au long de l'année."
+        },
+        {
+            "id": 51,
+            "category": "Site Web et Plateformes en Ligne",
+            "question": "Comment accéder à mon espace étudiant sur le site web de l'établissement ?",
+            "answer": "Vous pouvez accéder à votre espace étudiant en vous connectant avec vos identifiants sur le portail en ligne."
+        },
+        {
+            "id": 52,
+            "category": "Site Web et Plateformes en Ligne",
+            "question": "Où puis-je trouver les horaires des cours sur le site web ?",
+            "answer": "Les horaires des cours sont disponibles dans la section 'Emploi du temps' de votre espace étudiant."
+        },
+        {
+            "id": 53,
+            "category": "Site Web et Plateformes en Ligne",
+            "question": "Comment réinitialiser mon mot de passe pour les plateformes en ligne de l'établissement ?",
+            "answer": "Vous pouvez réinitialiser votre mot de passe en cliquant sur 'Mot de passe oublié' sur la page de connexion."
+        },
+        {
+            "id": 54,
+            "category": "Site Web et Plateformes en Ligne",
+            "question": "Y a-t-il une application mobile pour accéder aux services de l'établissement ?",
+            "answer": "Oui, nous avons une application mobile disponible sur iOS et Android."
+        },
+        {
+            "id": 55,
+            "category": "Site Web et Plateformes en Ligne",
+            "question": "Où puis-je trouver les ressources pédagogiques en ligne sur le site web ?",
+            "answer": "Les ressources pédagogiques sont disponibles dans la section 'Ressources' de votre espace étudiant."
+        },
+        {
+            "id": 56,
+            "category": "Stages et Expériences Professionnelles",
+            "question": "Comment trouver des offres de stages proposées par l'établissement ?",
+            "answer": "Les offres de stages sont publiées sur le portail carrière de l'établissement."
+        },
+        {
+            "id": 57,
+            "category": "Stages et Expériences Professionnelles",
+            "question": "Y a-t-il un bureau dédié aux stages et à l'insertion professionnelle ?",
+            "answer": "Oui, le bureau des stages est situé au bâtiment principal et est ouvert du lundi au vendredi."
+        },
+        {
+            "id": 58,
+            "category": "Stages et Expériences Professionnelles",
+            "question": "Les stages sont-ils rémunérés ou obligatoires dans certains programmes ?",
+            "answer": "Certains stages sont rémunérés, et d'autres sont obligatoires pour valider le diplôme."
+        },
+        {
+            "id": 59,
+            "category": "Stages et Expériences Professionnelles",
+            "question": "Comment obtenir une attestation de stage après avoir terminé mon stage ?",
+            "answer": "Vous pouvez demander une attestation de stage au bureau des stages après avoir soumis votre rapport de stage."
+        },
+        {
+            "id": 60,
+            "category": "Stages et Expériences Professionnelles",
+            "question": "Quels sont les partenariats avec les entreprises pour les stages ?",
+            "answer": "Nous avons des partenariats avec des entreprises comme Microsoft, Total, et L'Oréal."
+        },
+        {
+            "id": 61,
+            "category": "Professeurs et Encadrement",
+            "question": "Comment contacter un professeur en dehors des heures de cours ?",
+            "answer": "Vous pouvez contacter un professeur par e-mail ou prendre rendez-vous pendant ses heures de bureau."
+        },
+        {
+            "id": 62,
+            "category": "Professeurs et Encadrement",
+            "question": "Y a-t-il des heures de bureau pour rencontrer les professeurs ?",
+            "answer": "Oui, chaque professeur publie ses heures de bureau sur son profil en ligne."
+        },
+        {
+            "id": 63,
+            "category": "Professeurs et Encadrement",
+            "question": "Comment savoir qui est le responsable pédagogique de mon programme ?",
+            "answer": "Le responsable pédagogique est indiqué dans le descriptif de votre programme sur le site web de l'établissement."
+        },
+        {
+            "id": 64,
+            "category": "Professeurs et Encadrement",
+            "question": "Les professeurs proposent-ils des projets de recherche pour les étudiants ?",
+            "answer": "Oui, de nombreux professeurs proposent des projets de recherche pour les étudiants intéressés."
+        },
+        {
+            "id": 65,
+            "category": "Professeurs et Encadrement",
+            "question": "Comment obtenir une lettre de recommandation d'un professeur ?",
+            "answer": "Vous pouvez demander une lettre de recommandation en personne ou par e-mail, en fournissant les détails nécessaires."
+        },
+        {
+            "id": 66,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Quels sont les clubs étudiants les plus actifs sur le campus ?",
+            "answer": "Les clubs les plus actifs incluent le club de débat, le club de robotique, et l'association des arts créatifs."
+        },
+        {
+            "id": 67,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Comment créer un nouveau club étudiant ?",
+            "answer": "Vous pouvez soumettre une demande de création de club au bureau des activités étudiantes, accompagnée d'un projet détaillé."
+        },
+        {
+            "id": 68,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Y a-t-il des subventions disponibles pour les clubs étudiants ?",
+            "answer": "Oui, les clubs peuvent demander des subventions pour financer leurs activités via le bureau des activités étudiantes."
+        },
+        {
+            "id": 69,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Comment rejoindre un club ou une association étudiante ?",
+            "answer": "Vous pouvez vous inscrire aux clubs via le portail étudiant ou lors des journées d'intégration."
+        },
+        {
+            "id": 70,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Quels événements sont organisés par les clubs étudiants cette année ?",
+            "answer": "Les clubs organisent des tournois sportifs, des ateliers créatifs, et des conférences tout au long de l'année."
+        },
+        {
+            "id": 71,
+            "category": "Services Administratifs et Carte Étudiante",
+            "question": "Comment obtenir ma carte d'étudiant ?",
+            "answer": "Vous pouvez obtenir votre carte d'étudiant au bureau des inscriptions après avoir complété votre inscription."
+        },
+        {
+            "id": 72,
+            "category": "Services Administratifs et Carte Étudiante",
+            "question": "Où puis-je faire renouveler ma carte d'étudiant si elle est perdue ou expirée ?",
+            "answer": "Vous pouvez demander un renouvellement de carte au bureau des inscriptions en fournissant une pièce d'identité."
+        },
+        {
+            "id": 73,
+            "category": "Services Administratifs et Carte Étudiante",
+            "question": "Quels sont les avantages liés à la carte d'étudiant (réductions, accès, etc.) ?",
+            "answer": "La carte d'étudiant offre des réductions dans les transports, les cinémas, et les restaurants partenaires, ainsi que l'accès aux installations du campus."
+        },
+        {
+            "id": 74,
+            "category": "Services Administratifs et Carte Étudiante",
+            "question": "Comment mettre à jour mes informations personnelles sur le système de l'établissement ?",
+            "answer": "Vous pouvez mettre à jour vos informations via votre espace étudiant en ligne ou en contactant le bureau des inscriptions."
+        },
+        {
+            "id": 75,
+            "category": "Services Administratifs et Carte Étudiante",
+            "question": "Où puis-je obtenir une attestation d'inscription ou un certificat de scolarité ?",
+            "answer": "Vous pouvez télécharger une attestation d'inscription depuis votre espace étudiant ou en faire la demande au bureau des inscriptions."
+        },
+        {
+            "id": 76,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Espace Intranet ?",
+            "answer": "Consultez cette page: login"
+        },
+        {
+            "id": 77,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur FR ?",
+            "answer": "Consultez cette page: #"
+        },
+        {
+            "id": 78,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur EN ?",
+            "answer": "Consultez cette page: /en"
+        },
+        {
+            "id": 79,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/752/termes-de-reference-iso-21001"
+        },
+        {
+            "id": 80,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Termes de référence ISO 21001 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/752/termes-de-reference-iso-21001"
+        },
+        {
+            "id": 81,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 82,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur يمثلون تونس IHEC Carthage طلبة ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 83,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 84,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Call for application Erasmus+ BTU Cottbus for Tourism studies ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 85,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 86,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 87,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 88,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 89,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 90,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 91,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 92,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur يمثلون تونس IHEC Carthage طلبة ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 93,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 94,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Call for application Erasmus+ BTU Cottbus for Tourism studies ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 95,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 96,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 97,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 98,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 99,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 100,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 101,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 102,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 103,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 104,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Call for application Erasmus+ BTU Cottbus for Tourism studies ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 105,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 106,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 107,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 108,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 109,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 110,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 111,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 112,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 113,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 114,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 115,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 116,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 117,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 118,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 119,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 120,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 121,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 122,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 123,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 124,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 125,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 126,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 127,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 128,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 129,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 130,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 131,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 132,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 133,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 134,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 135,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 136,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 137,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 138,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la fourniture et pose de bâches pour abris de voitures ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 139,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 140,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 141,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 142,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 143,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 144,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 145,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 146,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 147,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 148,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la fourniture et pose de bâches pour abris de voitures ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 149,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 150,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la consultation 01/2024 PAQ-4C Aménagement salle de formation ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 151,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 152,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 153,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 154,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 155,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 156,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 157,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 158,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la fourniture et pose de bâches pour abris de voitures ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 159,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 160,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la consultation 01/2024 PAQ-4C Aménagement salle de formation ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 161,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/716/consultation-pour-la-mise-en-place-dun-systeme-de-video-surveillance"
+        },
+        {
+            "id": 162,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Consultation pour la mise en place d'un système de vidéo surveillance ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/716/consultation-pour-la-mise-en-place-dun-systeme-de-video-surveillance"
+        },
+        {
+            "id": 163,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Nos licences ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/nos-licences"
+        },
+        {
+            "id": 164,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Nos Masters ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/nos-masters"
+        },
+        {
+            "id": 165,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Nos programmes doctoraux ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/nos-programmes-doctoraux"
+        },
+        {
+            "id": 166,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 167,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 168,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 169,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 170,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 171,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 172,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 173,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 174,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/731/presentation-master-g2c-iae-de-caen"
+        },
+        {
+            "id": 175,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Présentation Master G2C IAE de Caen ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/731/presentation-master-g2c-iae-de-caen"
+        },
+        {
+            "id": 176,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/660/xxxeme-colloque-federateur-de-linstitut-cedimes"
+        },
+        {
+            "id": 177,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur XXXème COLLOQUE FEDERATEUR De L’INSTITUT CEDIMES ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/660/xxxeme-colloque-federateur-de-linstitut-cedimes"
+        },
+        {
+            "id": 178,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/634/hec-recrut2024"
+        },
+        {
+            "id": 179,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC RECRUT'2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/634/hec-recrut2024"
+        },
+        {
+            "id": 180,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/630/journee-du-marketer-2024"
+        },
+        {
+            "id": 181,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Journée du Marketer 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/630/journee-du-marketer-2024"
+        },
+        {
+            "id": 182,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/625/conference-avec-mr-slim-tlatli-sur-les-metiers-du-futur-et-le-futur-des-metiers"
+        },
+        {
+            "id": 183,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence avec Mr Slim Tlatli sur les métiers du futur et le futur des métiers ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/625/conference-avec-mr-slim-tlatli-sur-les-metiers-du-futur-et-le-futur-des-metiers"
+        },
+        {
+            "id": 184,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/623/conference-avec-le-ceo-hyundai-tunisie-mr-mehdi-mahjoub"
+        },
+        {
+            "id": 185,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence avec le CEO Hyundai Tunisie Mr. Mehdi Mahjoub ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/623/conference-avec-le-ceo-hyundai-tunisie-mr-mehdi-mahjoub"
+        },
+        {
+            "id": 186,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/620/journee-du-marketer-le-06-mars-2024"
+        },
+        {
+            "id": 187,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Journée du Marketer le 06 mars 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/620/journee-du-marketer-le-06-mars-2024"
+        },
+        {
+            "id": 188,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/587/exposition-internationale"
+        },
+        {
+            "id": 189,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Exposition Internationale ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/587/exposition-internationale"
+        },
+        {
+            "id": 190,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Tunis, Tunisie ?",
+            "answer": "Consultez cette page: https://forecast7.com/fr/36d8110d18/tunis/"
+        },
+        {
+            "id": 191,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur contact@ihec.ucar.tn ?",
+            "answer": "Consultez cette page: mailto:contact@ihec.ucar.tn"
+        },
+        {
+            "id": 192,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Histoire de l'IHEC ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/institut-footer/histoire-de-l-ihec-footer"
+        },
+        {
+            "id": 193,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Mission, Vision, valeurs ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/institut-footer/mission-vision-valeurs-footer"
+        },
+        {
+            "id": 194,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Galerie des photos ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/institut-footer/galerie-des-photos-footer"
+        },
+        {
+            "id": 195,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Galerie Vidéos ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 196,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Clubs ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/clubs-footer"
+        },
+        {
+            "id": 197,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bibliothèque ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/bibliotheque-footer"
+        },
+        {
+            "id": 198,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Culture ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/culture-footer"
+        },
+        {
+            "id": 199,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Candidatures mastères ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 200,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Pré-inscriptions en ligne ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/pre-inscriptions-en-ligne"
+        },
+        {
+            "id": 201,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Liste des enseignants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/liste-des-enseignants"
+        },
+        {
+            "id": 202,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Gestion ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-gestion"
+        },
+        {
+            "id": 203,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Finance ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-finance"
+        },
+        {
+            "id": 204,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Dép. Méthodes Quantitatives ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/dep-methodes-quantitatives"
+        },
+        {
+            "id": 205,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Comptabilité ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-comptabilite"
+        },
+        {
+            "id": 206,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Economie ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-economie"
+        },
+        {
+            "id": 207,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Droit ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-droit"
+        },
+        {
+            "id": 208,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur S'abonner ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/newsletter/subscription-form"
+        },
+        {
+            "id": 209,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Accès informations ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/acces-informations"
+        },
+        {
+            "id": 210,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Plan du site ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/plan-du-site"
+        },
+        {
+            "id": 211,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Liens utiles ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/liens-utiles-footer"
+        },
+        {
+            "id": 212,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Contact ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/contact-footer"
+        },
+        {
+            "id": 213,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Fermer ?",
+            "answer": "Consultez cette page: #"
+        },
+        {
+            "id": 214,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Accueil ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/accueil"
+        },
+        {
+            "id": 215,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur IHEC ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 216,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Histoire de l’IHEC ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/histoire-de-lihec"
+        },
+        {
+            "id": 217,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Mission, Vision et Valeurs ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/mission-vision-et-valeurs"
+        },
+        {
+            "id": 218,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Assurance Qualité ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 219,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Projets ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/assurance-qualite/projets"
+        },
+        {
+            "id": 220,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Politique Qualité ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/assurance-qualite/politique-qualite"
+        },
+        {
+            "id": 221,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Gouvernance ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 222,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Direction Générale ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/direction-generale"
+        },
+        {
+            "id": 223,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Direction des études ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/direction-des-etudes"
+        },
+        {
+            "id": 224,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Direction des Stages et de l’Ouverture sur l’environnement ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/direction-des-stages-et-de-louverture-sur-lenvironnement"
+        },
+        {
+            "id": 225,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Secrétariat Général ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/secretariat-general"
+        },
+        {
+            "id": 226,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Organigramme ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/organigramme"
+        },
+        {
+            "id": 227,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Départements ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 228,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Gestion ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-gestion"
+        },
+        {
+            "id": 229,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Finance ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-finance"
+        },
+        {
+            "id": 230,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Méthodes Quantitatives ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-methodes-quantitatives"
+        },
+        {
+            "id": 231,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Comptabilité ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-comptabilite"
+        },
+        {
+            "id": 232,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Economie ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-economie"
+        },
+        {
+            "id": 233,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Droit ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-droit"
+        },
+        {
+            "id": 234,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Campus ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 235,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur A propos du campus ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/campus/a-propos-du-campus"
+        },
+        {
+            "id": 236,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Activités proches de l’IHEC ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/campus/activites-proches-de-lihec"
+        },
+        {
+            "id": 237,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur IHEC Responsable ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/ihec-responsable"
+        },
+        {
+            "id": 238,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Incubateur ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/incubateur"
+        },
+        {
+            "id": 239,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Contact ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/contact-fr"
+        },
+        {
+            "id": 240,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Formation ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 241,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Licences ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/licences"
+        },
+        {
+            "id": 242,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Masters ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/masters"
+        },
+        {
+            "id": 243,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Doctorat ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/doctorat"
+        },
+        {
+            "id": 244,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Centre de formation et de certification ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 245,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur 4c ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/centre-de-formation-et-de-certification/4c"
+        },
+        {
+            "id": 246,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Microsoft ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/centre-de-formation-et-de-certification/microsoft"
+        },
+        {
+            "id": 247,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Recherche ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 248,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoires de Recherche ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 249,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoire d'Economie et de Finance Appliquées LEFA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/laboratoires-de-recherche/laboratoire-d-economie-et-de-finance-appliquees-lefa"
+        },
+        {
+            "id": 250,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoire d'Economie et Stratégies des Affaires ECSTRA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/laboratoires-de-recherche/laboratoire-d-economie-et-strategies-des-affaires-ecstra"
+        },
+        {
+            "id": 251,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoire PRospective Economique et STratégique, Innovation, Gestion et Entrepreneuriat PRESTIGE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/laboratoires-de-recherche/laboratoire-prospective-economique-et-strategique-innovation-gestion-et-entrepreneuriat-prestige"
+        },
+        {
+            "id": 252,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Ecole Doctorale ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/ecole-doctorale"
+        },
+        {
+            "id": 253,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Vie Etudiante ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 254,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bibliothèque ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/Bibliotheque-IHEC"
+        },
+        {
+            "id": 255,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Clubs étudiants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/clubs-etudiants"
+        },
+        {
+            "id": 256,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Sport ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/sport"
+        },
+        {
+            "id": 257,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Culture ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/culture"
+        },
+        {
+            "id": 258,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Evènements et news ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/evenements-et-news"
+        },
+        {
+            "id": 259,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur International ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 260,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Partenariats et coopérations ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/international/partenariats-et-cooperations"
+        },
+        {
+            "id": 261,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Mobilités ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 262,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Enseignants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/international/mobilites/enseignants"
+        },
+        {
+            "id": 263,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Etudiants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/international/mobilites/etudiants"
+        },
+        {
+            "id": 264,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Entreprise ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/entreprise"
+        },
+        {
+            "id": 265,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Espace Intranet ?",
+            "answer": "Consultez cette page: /app"
+        },
+        {
+            "id": 266,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Espace Intranet ?",
+            "answer": "Consultez cette page: login"
+        },
+        {
+            "id": 267,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur FR ?",
+            "answer": "Consultez cette page: #"
+        },
+        {
+            "id": 268,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur EN ?",
+            "answer": "Consultez cette page: /en"
+        },
+        {
+            "id": 269,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/752/termes-de-reference-iso-21001"
+        },
+        {
+            "id": 270,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Termes de référence ISO 21001 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/752/termes-de-reference-iso-21001"
+        },
+        {
+            "id": 271,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 272,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur يمثلون تونس IHEC Carthage طلبة ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 273,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 274,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Call for application Erasmus+ BTU Cottbus for Tourism studies ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 275,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 276,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 277,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 278,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 279,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 280,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 281,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 282,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur يمثلون تونس IHEC Carthage طلبة ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/749/ymthlon-tons-ihec-carthage-tlb"
+        },
+        {
+            "id": 283,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 284,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Call for application Erasmus+ BTU Cottbus for Tourism studies ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 285,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 286,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 287,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 288,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 289,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 290,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 291,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 292,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 293,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 294,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Call for application Erasmus+ BTU Cottbus for Tourism studies ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/746/call-for-application-erasmus-btu-cottbus-for-tourism-studies"
+        },
+        {
+            "id": 295,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 296,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 297,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 298,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 299,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 300,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 301,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 302,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 303,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 304,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 305,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 306,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 307,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 308,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 309,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 310,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 311,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 312,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 313,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 314,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 315,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 316,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 317,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 318,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 319,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 320,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 321,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 322,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 323,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 324,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 325,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 326,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 327,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 328,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la fourniture et pose de bâches pour abris de voitures ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 329,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 330,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 331,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 332,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 333,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 334,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 335,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 336,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 337,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 338,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la fourniture et pose de bâches pour abris de voitures ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 339,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 340,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la consultation 01/2024 PAQ-4C Aménagement salle de formation ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 341,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 342,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 343,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 344,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bourses pour des études doctorales à l'étranger ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/728/bourses-pour-des-etudes-doctorales-a-letranger"
+        },
+        {
+            "id": 345,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 346,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour achat de matériel informatique ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/725/prorogation-des-delais-pour-achat-de-materiel-informatique"
+        },
+        {
+            "id": 347,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 348,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la fourniture et pose de bâches pour abris de voitures ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/722/prorogation-des-delais-pour-la-fourniture-et-pose-de-baches-pour-abris-de-voitures"
+        },
+        {
+            "id": 349,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 350,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Prorogation des délais pour la consultation 01/2024 PAQ-4C Aménagement salle de formation ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/719/prorogation-des-delais-pour-la-consultation-012024-paq-4c-amenagement-salle-de-formation"
+        },
+        {
+            "id": 351,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/716/consultation-pour-la-mise-en-place-dun-systeme-de-video-surveillance"
+        },
+        {
+            "id": 352,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Consultation pour la mise en place d'un système de vidéo surveillance ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/716/consultation-pour-la-mise-en-place-dun-systeme-de-video-surveillance"
+        },
+        {
+            "id": 353,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Nos licences ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/nos-licences"
+        },
+        {
+            "id": 354,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Nos Masters ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/nos-masters"
+        },
+        {
+            "id": 355,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Nos programmes doctoraux ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/nos-programmes-doctoraux"
+        },
+        {
+            "id": 356,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 357,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence de Mr Ousmane Dione le vice-président de la Banque Mondiale -  région MENA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/743/conference-de-mr-ousmane-dione-le-vice-president-de-la-banque-mondiale-region-mena"
+        },
+        {
+            "id": 358,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 359,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur QUELS MÉTIERS DEMAIN, POUR LES JEUNES COMPTABLES EN TUNISIE? ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/737/quels-metiers-demain-pour-les-jeunes-comptables-en-tunisie"
+        },
+        {
+            "id": 360,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 361,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur PRÉSENTATIONS ET RÉFLEXION SUR LE TOURISME DURABLE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/740/presentations-et-reflexion-sur-le-tourisme-durable"
+        },
+        {
+            "id": 362,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 363,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC'RECRUT 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/734/hecrecrut-2024"
+        },
+        {
+            "id": 364,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/731/presentation-master-g2c-iae-de-caen"
+        },
+        {
+            "id": 365,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Présentation Master G2C IAE de Caen ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/731/presentation-master-g2c-iae-de-caen"
+        },
+        {
+            "id": 366,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/660/xxxeme-colloque-federateur-de-linstitut-cedimes"
+        },
+        {
+            "id": 367,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur XXXème COLLOQUE FEDERATEUR De L’INSTITUT CEDIMES ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/660/xxxeme-colloque-federateur-de-linstitut-cedimes"
+        },
+        {
+            "id": 368,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/634/hec-recrut2024"
+        },
+        {
+            "id": 369,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur HEC RECRUT'2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/634/hec-recrut2024"
+        },
+        {
+            "id": 370,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/630/journee-du-marketer-2024"
+        },
+        {
+            "id": 371,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Journée du Marketer 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/630/journee-du-marketer-2024"
+        },
+        {
+            "id": 372,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/625/conference-avec-mr-slim-tlatli-sur-les-metiers-du-futur-et-le-futur-des-metiers"
+        },
+        {
+            "id": 373,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence avec Mr Slim Tlatli sur les métiers du futur et le futur des métiers ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/625/conference-avec-mr-slim-tlatli-sur-les-metiers-du-futur-et-le-futur-des-metiers"
+        },
+        {
+            "id": 374,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/623/conference-avec-le-ceo-hyundai-tunisie-mr-mehdi-mahjoub"
+        },
+        {
+            "id": 375,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Conférence avec le CEO Hyundai Tunisie Mr. Mehdi Mahjoub ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/623/conference-avec-le-ceo-hyundai-tunisie-mr-mehdi-mahjoub"
+        },
+        {
+            "id": 376,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/620/journee-du-marketer-le-06-mars-2024"
+        },
+        {
+            "id": 377,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Journée du Marketer le 06 mars 2024 ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/620/journee-du-marketer-le-06-mars-2024"
+        },
+        {
+            "id": 378,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Lire la suite ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/587/exposition-internationale"
+        },
+        {
+            "id": 379,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Exposition Internationale ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/article/587/exposition-internationale"
+        },
+        {
+            "id": 380,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Tunis, Tunisie ?",
+            "answer": "Consultez cette page: https://forecast7.com/fr/36d8110d18/tunis/"
+        },
+        {
+            "id": 381,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur contact@ihec.ucar.tn ?",
+            "answer": "Consultez cette page: mailto:contact@ihec.ucar.tn"
+        },
+        {
+            "id": 382,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Histoire de l'IHEC ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/institut-footer/histoire-de-l-ihec-footer"
+        },
+        {
+            "id": 383,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Mission, Vision, valeurs ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/institut-footer/mission-vision-valeurs-footer"
+        },
+        {
+            "id": 384,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Galerie des photos ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/institut-footer/galerie-des-photos-footer"
+        },
+        {
+            "id": 385,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Galerie Vidéos ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 386,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Clubs ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/clubs-footer"
+        },
+        {
+            "id": 387,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bibliothèque ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/bibliotheque-footer"
+        },
+        {
+            "id": 388,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Culture ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/culture-footer"
+        },
+        {
+            "id": 389,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Candidatures mastères ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 390,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Pré-inscriptions en ligne ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/etudiants/pre-inscriptions-en-ligne"
+        },
+        {
+            "id": 391,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Liste des enseignants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/liste-des-enseignants"
+        },
+        {
+            "id": 392,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Gestion ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-gestion"
+        },
+        {
+            "id": 393,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Finance ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-finance"
+        },
+        {
+            "id": 394,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Dép. Méthodes Quantitatives ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/dep-methodes-quantitatives"
+        },
+        {
+            "id": 395,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Comptabilité ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-comptabilite"
+        },
+        {
+            "id": 396,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Economie ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-economie"
+        },
+        {
+            "id": 397,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Droit ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/enseignants/departement-droit"
+        },
+        {
+            "id": 398,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur S'abonner ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/newsletter/subscription-form"
+        },
+        {
+            "id": 399,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Accès informations ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/acces-informations"
+        },
+        {
+            "id": 400,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Plan du site ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/plan-du-site"
+        },
+        {
+            "id": 401,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Liens utiles ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/liens-utiles-footer"
+        },
+        {
+            "id": 402,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Contact ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/contact-footer"
+        },
+        {
+            "id": 403,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Fermer ?",
+            "answer": "Consultez cette page: #"
+        },
+        {
+            "id": 404,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Accueil ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/accueil"
+        },
+        {
+            "id": 405,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur IHEC ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 406,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Histoire de l’IHEC ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/histoire-de-lihec"
+        },
+        {
+            "id": 407,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Mission, Vision et Valeurs ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/mission-vision-et-valeurs"
+        },
+        {
+            "id": 408,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Assurance Qualité ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 409,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Projets ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/assurance-qualite/projets"
+        },
+        {
+            "id": 410,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Politique Qualité ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/assurance-qualite/politique-qualite"
+        },
+        {
+            "id": 411,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Gouvernance ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 412,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Direction Générale ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/direction-generale"
+        },
+        {
+            "id": 413,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Direction des études ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/direction-des-etudes"
+        },
+        {
+            "id": 414,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Direction des Stages et de l’Ouverture sur l’environnement ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/direction-des-stages-et-de-louverture-sur-lenvironnement"
+        },
+        {
+            "id": 415,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Secrétariat Général ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/secretariat-general"
+        },
+        {
+            "id": 416,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Organigramme ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/gouvernance-ihec/organigramme"
+        },
+        {
+            "id": 417,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Départements ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 418,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Gestion ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-gestion"
+        },
+        {
+            "id": 419,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Finance ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-finance"
+        },
+        {
+            "id": 420,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Méthodes Quantitatives ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-methodes-quantitatives"
+        },
+        {
+            "id": 421,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Comptabilité ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-comptabilite"
+        },
+        {
+            "id": 422,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Economie ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-economie"
+        },
+        {
+            "id": 423,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Département Droit ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/departement/departement-droit"
+        },
+        {
+            "id": 424,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Campus ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 425,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur A propos du campus ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/campus/a-propos-du-campus"
+        },
+        {
+            "id": 426,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Activités proches de l’IHEC ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/campus/activites-proches-de-lihec"
+        },
+        {
+            "id": 427,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur IHEC Responsable ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/ihec-responsable"
+        },
+        {
+            "id": 428,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Incubateur ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/incubateur"
+        },
+        {
+            "id": 429,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Contact ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/ihec/contact-fr"
+        },
+        {
+            "id": 430,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Formation ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 431,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Licences ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/licences"
+        },
+        {
+            "id": 432,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Masters ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/masters"
+        },
+        {
+            "id": 433,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Doctorat ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/doctorat"
+        },
+        {
+            "id": 434,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Centre de formation et de certification ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 435,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur 4c ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/centre-de-formation-et-de-certification/4c"
+        },
+        {
+            "id": 436,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Microsoft ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/formation/centre-de-formation-et-de-certification/microsoft"
+        },
+        {
+            "id": 437,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Recherche ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 438,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoires de Recherche ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 439,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoire d'Economie et de Finance Appliquées LEFA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/laboratoires-de-recherche/laboratoire-d-economie-et-de-finance-appliquees-lefa"
+        },
+        {
+            "id": 440,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoire d'Economie et Stratégies des Affaires ECSTRA ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/laboratoires-de-recherche/laboratoire-d-economie-et-strategies-des-affaires-ecstra"
+        },
+        {
+            "id": 441,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Laboratoire PRospective Economique et STratégique, Innovation, Gestion et Entrepreneuriat PRESTIGE ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/laboratoires-de-recherche/laboratoire-prospective-economique-et-strategique-innovation-gestion-et-entrepreneuriat-prestige"
+        },
+        {
+            "id": 442,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Ecole Doctorale ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/recherche/ecole-doctorale"
+        },
+        {
+            "id": 443,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Vie Etudiante ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 444,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Bibliothèque ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/Bibliotheque-IHEC"
+        },
+        {
+            "id": 445,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Clubs étudiants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/clubs-etudiants"
+        },
+        {
+            "id": 446,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Sport ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/sport"
+        },
+        {
+            "id": 447,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Culture ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/culture"
+        },
+        {
+            "id": 448,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Evènements et news ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/vie-etudiante1/evenements-et-news"
+        },
+        {
+            "id": 449,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur International ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 450,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Partenariats et coopérations ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/international/partenariats-et-cooperations"
+        },
+        {
+            "id": 451,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Mobilités ?",
+            "answer": "Consultez cette page: javascript:void(0)"
+        },
+        {
+            "id": 452,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Enseignants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/international/mobilites/enseignants"
+        },
+        {
+            "id": 453,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Etudiants ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/international/mobilites/etudiants"
+        },
+        {
+            "id": 454,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Entreprise ?",
+            "answer": "Consultez cette page: https://ihec.rnu.tn/fr/entreprise"
+        },
+        {
+            "id": 455,
+            "category": "Liens Utiles",
+            "question": "Où puis-je trouver des informations sur Espace Intranet ?",
+            "answer": "Consultez cette page: /app"
+        }
+    ]
+}
